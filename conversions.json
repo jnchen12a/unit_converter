@@ -1,0 +1,262 @@
+{
+    "length": {
+        "meters": {
+            "inches": 39.3701,
+            "centimeters": 100,
+            "feet": 3.28084,
+            "millimeters": 1000.0,
+            "miles": 0.0006213727366498068,
+            "nautical miles": 0.0005399568034557236,
+            "nanometers": 999999999.9999999,
+            "micrometers": 1000000.0
+        },
+        "inches": {
+            "meters": 0.0254,
+            "millimeters": 25.399986284007408,
+            "miles": 1.5782828282828283e-05,
+            "centimeters": 2.54,
+            "feet": 12,
+            "nautical miles": 1.3714900141812068e-05,
+            "nanometers": 25399986.284007408,
+            "micrometers": 25399.98628400741
+        },
+        "centimeters": {
+            "meters": 0.01,
+            "millimeters": 10.0,
+            "miles": 6.213727366498068e-06,
+            "inches": 0.393701,
+            "feet": 0.0328084,
+            "nautical miles": 5.399568034557236e-06,
+            "nanometers": 10000000.0,
+            "micrometers": 10000.0
+        },
+        "feet": {
+            "meters": 0.3048,
+            "millimeters": 304.7999902464003,
+            "miles": 0.0001893939393939394,
+            "inches": 0.08333333333333333,
+            "centimeters": 30.48,
+            "nautical miles": 0.00016457871141452112,
+            "nanometers": 304799990.2464003,
+            "micrometers": 304799.99024640035
+        },
+        "millimeters": {
+            "meters": 0.001,
+            "inches": 0.0393701,
+            "centimeters": 0.1,
+            "feet": 0.00328084,
+            "miles": 6.213727366498067e-07,
+            "nautical miles": 5.399568034557235e-07,
+            "nanometers": 999999.9999999999,
+            "micrometers": 1000.0
+        },
+        "miles": {
+            "meters": 1609.34,
+            "inches": 63360.0,
+            "centimeters": 160934.0,
+            "feet": 5280.0,
+            "millimeters": 1609340.0,
+            "nautical miles": 0.868975825092546,
+            "nanometers": 1609339999999.9998,
+            "micrometers": 1609339999.9999998
+        },
+        "nautical miles": {
+            "meters": 1852.0,
+            "inches": 72913.4,
+            "centimeters": 185200.0,
+            "feet": 6076.12,
+            "millimeters": 1852000.0,
+            "miles": 1.15078,
+            "nanometers": 1851999999999.9998,
+            "micrometers": 1851999999.9999998
+        },
+        "nanometers": {
+            "meters": 1e-09,
+            "inches": 3.93701e-08,
+            "centimeters": 1.0000000000000001e-07,
+            "feet": 3.28084e-09,
+            "millimeters": 1.0000000000000002e-06,
+            "miles": 6.213727366498068e-13,
+            "nautical miles": 5.399568034557236e-13,
+            "micrometers": 0.001
+        },
+        "micrometers": {
+            "meters": 1e-06,
+            "inches": 3.93701e-05,
+            "centimeters": 9.999999999999999e-05,
+            "feet": 3.28084e-06,
+            "millimeters": 0.001,
+            "miles": 6.213727366498069e-10,
+            "nautical miles": 5.399568034557236e-10,
+            "nanometers": 999.9999999999999
+        }
+    },
+    "time": {
+        "seconds": {
+            "minutes": 0.016666666666666666,
+            "hours": 0.0002777777777777778,
+            "months": 3.8051750380517503e-07,
+            "years": 3.170577045022194e-08,
+            "decades": 3.170577045022194e-09,
+            "centuries": 3.170577045022194e-10,
+            "weeks": 1.6534391534391535e-06
+        },
+        "minutes": {
+            "seconds": 60.0,
+            "hours": 0.016666666666666666,
+            "months": 2.2831050228310503e-05,
+            "years": 1.9023462270133165e-06,
+            "decades": 1.9023462270133162e-07,
+            "centuries": 1.9023462270133166e-08,
+            "weeks": 9.92063492063492e-05
+        },
+        "hours": {
+            "seconds": 3600.0,
+            "minutes": 60.0,
+            "months": 0.0013698630136986301,
+            "years": 0.00011414077362079899,
+            "decades": 1.1414077362079898e-05,
+            "centuries": 1.1414077362079899e-06,
+            "weeks": 0.005952380952380952
+        },
+        "months": {
+            "seconds": 2628000.0,
+            "minutes": 43800.0,
+            "hours": 730.0,
+            "years": 0.08332276474318326,
+            "decades": 0.008332276474318327,
+            "centuries": 0.0008332276474318325,
+            "weeks": 4.345238095238095
+        },
+        "years": {
+            "seconds": 31540000.0,
+            "minutes": 525666.6666666666,
+            "hours": 8761.111111111111,
+            "months": 12.00152207001522,
+            "decades": 0.1,
+            "centuries": 0.01,
+            "weeks": 52.1494708994709
+        },
+        "decades": {
+            "seconds": 315400000.0,
+            "minutes": 5256666.666666667,
+            "hours": 87611.11111111111,
+            "months": 120.0152207001522,
+            "years": 10.0,
+            "centuries": 0.1,
+            "weeks": 521.494708994709
+        },
+        "centuries": {
+            "seconds": 3154000000.0,
+            "minutes": 52566666.666666664,
+            "hours": 876111.1111111111,
+            "months": 1200.1522070015221,
+            "years": 100.0,
+            "decades": 10.0,
+            "weeks": 5214.94708994709
+        },
+        "weeks": {
+            "seconds": 604800.0,
+            "minutes": 10080.0,
+            "hours": 168.0,
+            "months": 0.23013698630136986,
+            "years": 0.01917564996829423,
+            "decades": 0.001917564996829423,
+            "centuries": 0.0001917564996829423
+        }
+    },
+    "area": {
+        "square yards": {
+            "square miles": 3.2278889606197545e-07,
+            "square feet": 9.000009000009,
+            "square inches": 1295.9998963200082,
+            "acres": 0.00020661157024793388
+        },
+        "square miles": {
+            "square yards": 3098000.0,
+            "square feet": 27882027.88202788,
+            "square inches": 4015007678.799386,
+            "acres": 640.0826446280992
+        },
+        "square feet": {
+            "square yards": 0.111111,
+            "square miles": 3.586539703034216e-08,
+            "square inches": 143.99984448001246,
+            "acres": 2.2956818181818183e-05
+        },
+        "square inches": {
+            "square yards": 0.000771605,
+            "square miles": 2.4906552614590056e-10,
+            "square feet": 0.006944451944451944,
+            "acres": 1.59422520661157e-07
+        },
+        "acres": {
+            "square yards": 4840.0,
+            "square miles": 0.0015622982569399612,
+            "square feet": 43560.04356004356,
+            "square inches": 6272639.49818884
+        }
+    },
+    "energy": {
+        "joules": {
+            "foot-pounds": 0.7375610331754953,
+            "watt hours": 0.0002777777777777778,
+            "gram calories": 0.2390057361376673
+        },
+        "foot-pounds": {
+            "joules": 1.35582,
+            "watt hours": 0.00037661666666666667,
+            "gram calories": 0.32404875717017206
+        },
+        "watt hours": {
+            "joules": 3600.0,
+            "foot-pounds": 2655.219719431783,
+            "gram calories": 860.4206500956022
+        },
+        "gram calories": {
+            "joules": 4.184,
+            "foot-pounds": 3.0859553628062724,
+            "watt hours": 0.0011622222222222223
+        }
+    },
+    "volume": {
+        "liters": {
+            "us gallons": 0.26417217685798894,
+            "us quart": 1.0566881491367386,
+            "us pint": 2.1133785314555262,
+            "us cup": 4.166666666666667
+        },
+        "us gallons": {
+            "liters": 3.78541,
+            "us quart": 3.999997886623702,
+            "us pint": 8.000004226757063,
+            "us cup": 15.772541666666669
+        },
+        "us quart": {
+            "liters": 0.946353,
+            "us gallons": 0.2500001320860884,
+            "us pint": 2.0000021133785317,
+            "us cup": 3.9431375000000006
+        },
+        "us pint": {
+            "liters": 0.473176,
+            "us gallons": 0.12499993395695577,
+            "us quart": 0.4999994716559254,
+            "us cup": 1.9715666666666665
+        },
+        "us cup": {
+            "liters": 0.24,
+            "us gallons": 0.06340132244591734,
+            "us quart": 0.2536051557928172,
+            "us pint": 0.5072108475493263
+        }
+    },
+    "angle": {
+        "degrees": {
+            "radians": 0.017453286279273523
+        },
+        "radians": {
+            "degrees": 57.2958
+        }
+    }
+}
